@@ -1,80 +1,151 @@
-# Landen Tomlin - Individual Project
+---
+marp: true
+theme: default
+paginate: true
+class: lead
+---
 
-## Team Members
+# Learning with AI  
+## Spell Arena – Capstone Reflection
 
-- **Landen Tomlin** (Team Leader)
+**Landen Tomlin**  
+ASE 485 – Capstone Project
 
-## Project Description
+---
 
-  Early Starter is a web application ...
+# Project Context
 
-## Problem Domain
+## Spell Arena
 
-  Many students struggle with:
+- Real-time multiplayer wizard combat game  
+- Gesture-based spell casting  
+- Built in **Unity**  
 
-- ...
+**My Focus Areas**
+- Player experience (UX)
+- Accessibility
+- Visual design
+- Replayability systems
 
-## Features and Requirements
+---
 
-### Features & Requirements
+# Why Use AI?
 
-  1. Access issue:
-     - ...
+AI is used as a **learning and design support tool**, not a replacement for development.
 
-  We have N features and M requirements.
+It helps me:
+- Research design patterns  
+- Evaluate usability decisions  
+- Prototype gameplay systems  
+- Reflect on player-facing features  
 
-  Link: [...]
+---
 
-### Non-Functional Requirements
+# Learning Topic 1
 
-- Web applications.
-- ...
+## Visual Theming & Art Direction
 
-## Data Model
+### Why This Matters
+- Fast-paced combat requires clarity
+- Poor visuals increase confusion
+- Accessibility depends on contrast and hierarchy
 
-  ...
+---
 
-## Architecture
+## What I Learn with AI
 
-  [Insert architecture diagram here]
+- UI color theory for games  
+- Visual hierarchy for HUD elements  
+- Consistent theming across menus and gameplay  
+- Accessibility-focused design choices  
 
-  ...
+---
 
-  Link:
+## How AI Helps
 
-## Tests
+- Proposing visual themes
+- Critiquing UI layouts
+- Comparing art direction approaches
+- Validating contrast and readability
 
-### Acceptance Tests
+---
 
-- ...
+# Learning Topic 2
 
-  Link:
+## Replayability & Reward Systems
 
-### Integration Tests
+### Why This Matters
+- Multiplayer games rely on retention
+- Rewards encourage continued play
+- Balance must be preserved
 
-- ...
+---
 
-  Link:
+## What I Learn with AI
 
-### E2E Tests
+- Player motivation (intrinsic vs extrinsic)
+- Cosmetic reward design
+- Post-match feedback loops
+- Expandable progression systems
 
-- ...
+---
 
-## Project Documentation
+## How AI Helps
 
-- [Project Plan Presentation (PPP)](link-to-ppp)
-- [Individual Contributions - Ken](link-to-ken)
+- Researching proven reward systems
+- Brainstorming reward ideas
+- Identifying balance or UX issues
+- Refining reward presentation
 
-## Schedule & Milestones
+---
 
-### Sprint 1
+# Learning Topic 3
 
--
--
+## Assistive Features & Accessibility
 
-### Sprint 2
+### Why This Matters
+- Gesture controls have a learning curve
+- New players need support
+- Assistance should not remove skill expression
 
--
--
+---
 
-  Link:
+## What I Learn with AI
+
+- Onboarding design strategies
+- In-game assistive UX patterns
+- Post-match feedback design
+- Optional accessibility systems
+
+---
+
+## How AI Helps
+
+- Evaluating assistive feature ideas
+- Analyzing player learning psychology
+- Refining clarity and usability
+- Reducing trial-and-error
+
+---
+
+# Learning Goals
+
+## Success Metrics
+
+- UI is readable and consistent  
+- Rewards encourage replay without imbalance  
+- New players complete matches with less confusion  
+
+---
+
+# Summary
+
+- AI supports **learning, design, and reflection**
+- Decisions remain developer-driven
+- AI improves iteration speed and design quality
+- Focus is on better player experience
+
+---
+
+# Thank You  
+Questions?

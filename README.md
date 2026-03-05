@@ -4,7 +4,6 @@
 
 ---
 ## Progress will be located in the Art Direction Documentation Folder and the Assistive Features Folder
----
 
 ## Overview
 

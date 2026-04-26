@@ -48,35 +48,7 @@ AI serves as a design review and ideation partner rather than a source of final 
 
 ---
 
-## Topic 2: Replayability and Reward System Design
-
-### Why I Need to Learn This
-
-Multiplayer games rely heavily on replayability. Without meaningful progression or rewards, players may lose interest after a small number of matches. My goal is to design a reward system that encourages continued play without affecting competitive balance.
-
----
-
-### What I Want to Learn
-
-- **Player Motivation:** Understanding intrinsic vs extrinsic motivation
-- **Cosmetic Reward Systems:** Rewards that do not alter gameplay fairness
-- **Feedback Loops:** Communicating rewards clearly after matches
-- **Expandable Design:** Building systems that can grow without major refactoring
-
----
-
-### How I Learn with AI
-
-- Research reward and progression systems used in competitive multiplayer games
-- Brainstorm reward ideas and evaluate feasibility and scope
-- Use AI to critique reward presentation and pacing
-- Identify potential balance or UX issues before implementation
-
-AI is used to validate design ideas and highlight risks early in development.
-
----
-
-## Topic 3: Assistive Features and Accessibility for New Players
+## Topic 2: Assistive Features and Accessibility for New Players
 
 ### Why I Need to Learn This
 
